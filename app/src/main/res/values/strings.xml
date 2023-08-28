@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FetchDataFromWebTutorial</string>
+    <string name="base_currency">AUD: 1.00</string>
+    <string name="nzd">NZD:</string>
+    <string name="usd">USD:</string>
+    <string name="gbp">GBP:</string>
+    <string name="wave_height">Wave Height</string>
+    <string name="beach_report">Beach Report</string>
+    <string name="hello">Hello</string>
+    <string name="_10">10</string>
+    <string name="_1_2ft">1-2ft</string>
+    <string name="good">GOOD</string>
+    <string name="t_street">T-Street</string>
+    <string name="_8">8</string>
+    <string name="uv_level">UV Level</string>
+    <string name="wave_period">Wave Period</string>
+</resources>
